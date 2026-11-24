@@ -71,7 +71,7 @@
     <maven-plugin-api.version>3.10.1</maven-plugin-api.version>
     <maven-plugin-plugin.version>3.16.0</maven-plugin-plugin.version>
     <maven-source-plugin.version>3.4.0</maven-source-plugin.version>
-    <spotless-maven-plugin.version>3.11.0</spotless-maven-plugin.version>
+    <spotless-maven-plugin.version>3.12.0</spotless-maven-plugin.version>
     <surefire-plugin.version>3.5.2</surefire-plugin.version>
     <zip4j.version>2.11.6</zip4j.version>
 
